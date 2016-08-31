@@ -1,0 +1,15 @@
+--
+Animal Trading Cards Overview
+https://classroom.udacity.com/nanodegrees/nd001/parts/0011345403/modules/742847927175461/lessons/7428479271239847/concepts/74228992680923#
+
+--
+PROJECT SPECIFICATION - Animal Trading Cards
+https://review.udacity.com/?_ga=1.85149919.790312746.1471893410#!/projects/7428479271/rubric
+
+--
+Download and unzip fend-animal-trading-cards-master.zip. Inside, you'll find card.html
+https://github.com/udacity/fend-animal-trading-cards/archive/master.zip
+
+--
+fend-animal-trading-cards
+https://github.com/udacity/fend-animal-trading-cards.git

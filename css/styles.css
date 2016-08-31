@@ -1,0 +1,19 @@
+img {
+	max-width: 100%;
+}
+
+.card {
+	width: 350px;
+	box-shadow: 10px 10px 8px -4px rgba(169,169,169,1);
+	border: groove;
+	padding: 2em;
+}
+.leopard-facts {
+	font-style: italic;
+}
+.leopard-profile {
+	border: groove;
+	padding: 1em;
+	padding-top: 1px;
+	margin-top: 0.5em;
+}
