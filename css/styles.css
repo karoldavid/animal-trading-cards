@@ -18,6 +18,10 @@ img {
 	margin-top: 0.5em;
 }
 
+ul {
+	padding: 0;
+}
+
 li {
 	list-style-type: none;
 }
